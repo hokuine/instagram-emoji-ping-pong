@@ -10,4 +10,4 @@ Click at once for faster speed
 Run with:
 ```bash
 python main.py
-``` 🎮
+```
